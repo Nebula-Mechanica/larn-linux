@@ -1,0 +1,98 @@
+# curses colors: black, blue, green, cyan, red, magenta, yellow, white
+#                colors in all uppercase indicate a lighter hue
+#           1         2         3         4         5         6         7         8         9  
+# 012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012
+O .:\_^<_{%^6|2>_55}$'+#~[[[))))))========-?!?&~~~~~****899)))[[[[[)^.[1$$$.^^.3./0\4,_________
+C BLACK    # FLOOR 0
+C MAGENTA  # ALTAR 1
+C GREEN    # THRONE 2
+C RED      # ORB 3
+C BLACK    # PIT 4
+C WHITE    # STAIRSUP 5
+C WHITE    # ELEVATORUP 6
+C BLUE     # FOUNTAIN 7
+C BLACK    # STATUE 8
+C blue     # TELEPORTER 9
+C magenta  # SCHOOL 10
+C CYAN     # MIRROR 11
+C green    # DNDSTORE 12
+C WHITE    # STAIRSDOWN 13
+C WHITE    # ELEVATORDOWN 14
+C yellow   # BANK2 15
+C yellow   # BANK 16
+C BLACK    # DEADFOUNTAIN 17
+C yellow   # GOLDPILE 18
+C WHITE    # OPENDOOR 19
+C white    # CLOSEDDOOR 20
+C white    # WALL 21
+C RED      # LARNEYE 22
+C CYAN     # PLATE 23
+C cyan     # CHAIN 24
+C cyan     # LEATHER 25
+C CYAN     # SWORDofSLASHING 26
+C cyan     # HAMMER 27
+C CYAN     # SWORD 28
+C CYAN     # 2SWORD 29
+C cyan     # SPEAR 30
+C CYAN     # DAGGER 31
+C WHITE    # RINGOFEXTRA 32
+C green    # REGENRING 33
+C cyan     # PROTRING 34
+C yellow   # ENERGYRING 35
+C blue     # DEXRING 36
+C RED      # STRRING 37
+C MAGENTA  # CLEVERRING 38
+C red      # DAMRING 39
+C cyan     # BELT 40
+C WHITE    # SCROLL 41
+C CYAN     # POTION 42
+C RED      # BOOK 43
+C yellow   # CHEST 44             
+C YELLOW   # AMULET 45
+C green    # ORBOFDRAGON 46
+C WHITE    # SPIRITSCARAB 47
+C magenta  # CUBEofUNDEAD 48
+C BLACK    # NOTHEFT 49
+C WHITE    # DIAMOND 50
+C red      # RUBY 51
+C GREEN    # EMERALD 52
+C blue     # SAPPHIRE 53
+C WHITE    # ENTRANCE 54
+C red      # VOLDOWN 55
+C red      # VOLUP 56
+C cyan     # BATTLEAXE 57
+C CYAN     # LONGSWORD 58
+C cyan     # FLAIL 59
+C MAGENTA  # RING 60
+C cyan     # STUDLEATHER 61
+C cyan     # SPLINT 62
+C CYAN     # PLATEARMOR 63
+C CYAN     # SSPLATE 64
+C yellow   # LANCE 65
+C green    # TRAPARROW 66
+C BLACK    # TRAPARROWIV 67
+C CYAN     # SHIELD 68
+C cyan     # HOME 69
+C yellow   # MAXGOLD 70
+C yellow   # KGOLD 71
+C yellow   # DGOLD 72
+C BLACK    # IVDARTRAP 73
+C red      # DARTRAP 74
+C BLACK    # TRAPDOOR 75
+C BLACK    # IVTRAPDOOR 76
+C BLUE     # TRADEPOST 77
+C BLACK    # IVTELETRAP 78
+C BLACK    # DEADTHRONE 79
+C blue     # ANNIHILATION 80        /* sphere of annihilation */
+C WHITE    # THRONE2 81
+C GREEN    # LRS 82             /* Larn Revenue Service */
+C yellow   # COOKIE 83
+C WHITE    # URN 84
+C YELLOW   # BRASSLAMP 85
+C yellow   # HANDofFEAR 86      /* hand of fear */
+C magenta  # SPHTAILSMAN 87     /* tailsman of the sphere */
+C MAGENTA  # WWAND 88           /* wand of wonder */
+C RED      # PSTAFF 89          /* staff of power */
+C magenta  # VORPAL 90
+C red      # SLAYER 91
+C cyan     # ELVENCHAIN 92   /* used up to 92 */
